@@ -1,0 +1,16 @@
+{
+  "version": "1.0.1",
+  "logs": "Log：\r\n2024-3-29 First Version.",
+  "languages": [
+    {
+      "language": "zh-Hans",
+      "log": "日志：\r\n2024-3-29 首个版本。"
+    },
+    {
+      "language": "en-US",
+      "log": "Log：\r\n2024-3-29 First Version."
+    }
+  ],
+  "sha256": "70ad388a86924ae9afe8eb99461bc070e0217bba011850615290cd1efcb514dc",
+  "url": "https://phoerain.github.io/update/AiAssistant_v1.0.1.zip"
+}
