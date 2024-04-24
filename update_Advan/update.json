@@ -1,1 +1,16 @@
-
+{
+  "version": "1.0.1.0",
+  "logs": "Log：\r\n2024-4-24 update test Version.",
+  "languages": [
+    {
+      "language": "zh-Hans",
+      "log": "日志：\r\n2024-4-24 升级测试版本。"
+    },
+    {
+      "language": "en-US",
+      "log": "Log：\r\n2024-4-24 update test Version."
+    }
+  ],
+  "sha256": "89ee52dc6c63339b4b10d8652e900c68cd027914c163dfd5a97725194",
+  "url": "https://maskonface.github.io/updateTestServer/update/AIAssistant_v1.0.3.0.zip"
+}
