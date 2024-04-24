@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1.0",
+  "version": "1.0.2.0",
   "logs": "Log：\r\n2024-3-18 update test Version.",
   "languages": [
     {
@@ -12,5 +12,5 @@
     }
   ],
   "sha256": "e0ff35e9554110f6de5a1f532211e542a0aa196301c3927c78eded9a80ee1c7d",
-  "url": "https://maskonface.github.io/updateTestServer/update/AIAssistant_v1.0.1.0.zip"
+  "url": "https://maskonface.github.io/updateTestServer/update/AIAssistant_v1.0.2.0.zip"
 }
