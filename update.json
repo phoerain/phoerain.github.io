@@ -1,16 +1,16 @@
 {
-  "version": "1.0.1",
-  "logs": "Log：\r\n2024-3-29 First Version.",
+  "version": "1.0.1.0",
+  "logs": "Log：\r\n2024-3-18 update test Version.",
   "languages": [
     {
       "language": "zh-Hans",
-      "log": "日志：\r\n2024-3-29 首个版本。"
+      "log": "日志：\r\n2024-3-18 升级测试版本。"
     },
     {
       "language": "en-US",
-      "log": "Log：\r\n2024-3-29 First Version."
+      "log": "Log：\r\n2024-3-18 update test Version."
     }
   ],
-  "sha256": "53d92be3f0ad5d709332b5ad54f2e03af9b86de9bb98de2140d0150bdbd2395e",
-  "url": "https://sixunited2.github.io/update/GameAssistant_v1.0.20.5.zip"
+  "sha256": "e0ff35e9554110f6de5a1f532211e542a0aa196301c3927c78eded9a80ee1c7d",
+  "url": "https://maskonface.github.io/updateTestServer/update/AIAssistant_v1.0.1.0.zip"
 }
