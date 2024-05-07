@@ -1,6 +1,16 @@
 {
   "version": "1.0.2.0",
-  "logs": "Log：\r\n2024-5-6 First Version.",
+  "logs": "Log：\r\n2024-4-29 First Version.",
+  "languages": [
+    {
+      "language": "zh-Hans",
+      "log": "日志：\r\n2024-4-29 首个版本。"
+    },
+    {
+      "language": "en-US",
+      "log": "Log：\r\n2024-4-29 First Version."
+    }
+  ],
   "sha256": "3a5289ec2f6e6bb63b0185ff592dd21fb9ed1bab94e7db34c40e1691684b6def",
-  "url": "https://phoerain.github.io/update_test/OnlineTest_v1.0.1.0.zip"
+  "url": "https://phoerain.github.io/update_Advan/AIAssistant_v1.0.5.0.zip"
 }
