@@ -1,16 +1,16 @@
 {
-  "version": "1.0.2.0",
-  "logs": "Log：\r\n2024-3-18 update test Version.",
+  "version": "1.0.3.0",
+  "logs": "Log：\r\n2024-4-24 First Version.",
   "languages": [
     {
       "language": "zh-Hans",
-      "log": "日志：\r\n2024-3-18 升级测试版本。"
+      "log": "日志：\r\n2024-4-24 首个版本。"
     },
     {
       "language": "en-US",
-      "log": "Log：\r\n2024-3-18 update test Version."
+      "log": "Log：\r\n2024-4-24 First Version."
     }
   ],
-  "sha256": "e0ff35e9554110f6de5a1f532211e542a0aa196301c3927c78eded9a80ee1c7d",
-  "url": "https://maskonface.github.io/updateTestServer/update/AIAssistant_v1.0.2.0.zip"
+  "sha256": "ecaf26642e0d5e4f7a49a72958540d36217770081db308ed7d9b0dbcba321f8b",
+  "url": "https://phoerain.github.io/AIAssistant_v1.0.3.0.zip"
 }
