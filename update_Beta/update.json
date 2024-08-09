@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4.0",
+  "version": "1.0.5.0",
   "logs": "Log：\r\n2024-4-24 First Version.",
   "languages": [
     {
@@ -11,6 +11,6 @@
       "log": "Log：\r\n2024-4-24 First Version."
     }
   ],
-  "sha256": "d8bd70bcafb30820f26a8d810983c217674c08c2eae6a9f5e127763affa16c51",
-  "url": "https://phoerain.github.io/update_Beta/AIAssistant_v1.0.4.0.zip"
+  "sha256": "0419d97a185596db3839603c54412edf6ec1f3b525dd478f25b9fac5284d9fd6",
+  "url": "https://phoerain.github.io/update_Beta/AIAssistant_v1.0.5.0.zip"
 }
