@@ -36,21 +36,6 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="phoerain.github.io" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="phoerain.github.io" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,6 +48,7 @@
       <workItem from="1726712728928" duration="12000" />
       <workItem from="1726712850142" duration="596000" />
       <workItem from="1727086287407" duration="895000" />
+      <workItem from="1728367139809" duration="1156000" />
     </task>
     <task id="LOCAL-00001" summary="中性版本1.1.2.0">
       <option name="closed" value="true" />
@@ -88,7 +74,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727086468385</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="中性版本1.1.4.0">
+      <option name="closed" value="true" />
+      <created>1728367160898</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728367160898</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +91,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="中性版本1.1.2.0" />
     <MESSAGE value="中性版本1.1.3.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="中性版本1.1.3.0" />
+    <MESSAGE value="中性版本1.1.4.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="中性版本1.1.4.0" />
   </component>
 </project>
