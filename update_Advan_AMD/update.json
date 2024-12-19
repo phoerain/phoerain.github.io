@@ -1,0 +1,16 @@
+{
+  "version": "1.1.0.0",
+  "logs": "Log：\r\n2024-4-29 First Version.",
+  "languages": [
+    {
+      "language": "zh-Hans",
+      "log": "日志：\r\n2024-4-29 首个版本。"
+    },
+    {
+      "language": "en-US",
+      "log": "Log：\r\n2024-4-29 First Version."
+    }
+  ],
+  "sha256": "e6ebebcb835e452f28162b69c50162030bfd692702391554833e2d4ee9d7a842",
+  "url": "https://phoerain.github.io/update_Advan/AIAssistant_v1.1.0.0.zip"
+}
