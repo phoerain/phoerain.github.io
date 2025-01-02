@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0.0",
+  "version": "1.3.0.0",
   "logs": "Log：\r\n2024-4-29 First Version.",
   "languages": [
     {
@@ -11,6 +11,6 @@
       "log": "Log：\r\n2024-4-29 First Version."
     }
   ],
-  "sha256": "e74a442232a2f798f4137809963c5f330421e024fb306d00a59c4f15364bdc66",
-  "url": "https://phoerain.github.io/update_Advan_AMD/AIAssistant_v1.2.0.0.zip"
+  "sha256": "4fb9a73fa29b2a752659917a2991499235297be06816c54930b0dcc0ad0cba74",
+  "url": "https://phoerain.github.io/update_Advan_AMD/AIAssistant_v1.3.0.0.zip"
 }
